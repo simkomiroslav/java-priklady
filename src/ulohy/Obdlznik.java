@@ -20,6 +20,6 @@ public class Obdlznik {
     // Otestujeme funkcnost metody vypocitajObvod
     @Test
     void otestujVypocitajObvod() {
-        assertEquals(9.0, vypocitajObvod(2, 3));
+        assertEquals(10.0, vypocitajObvod(2, 3));
     }
 }
